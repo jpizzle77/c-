@@ -1,0 +1,10 @@
+C:\Users\john\desktop\c#\MySqlCSharp\bin\Debug\netcoreapp2.0\MySqlCSharp.deps.json
+C:\Users\john\desktop\c#\MySqlCSharp\bin\Debug\netcoreapp2.0\MySqlCSharp.runtimeconfig.json
+C:\Users\john\desktop\c#\MySqlCSharp\bin\Debug\netcoreapp2.0\MySqlCSharp.runtimeconfig.dev.json
+C:\Users\john\desktop\c#\MySqlCSharp\bin\Debug\netcoreapp2.0\MySqlCSharp.dll
+C:\Users\john\desktop\c#\MySqlCSharp\bin\Debug\netcoreapp2.0\MySqlCSharp.pdb
+C:\Users\john\desktop\c#\MySqlCSharp\obj\Debug\netcoreapp2.0\MySqlCSharp.csproj.CoreCompileInputs.cache
+C:\Users\john\desktop\c#\MySqlCSharp\obj\Debug\netcoreapp2.0\MySqlCSharp.AssemblyInfoInputs.cache
+C:\Users\john\desktop\c#\MySqlCSharp\obj\Debug\netcoreapp2.0\MySqlCSharp.AssemblyInfo.cs
+C:\Users\john\desktop\c#\MySqlCSharp\obj\Debug\netcoreapp2.0\MySqlCSharp.dll
+C:\Users\john\desktop\c#\MySqlCSharp\obj\Debug\netcoreapp2.0\MySqlCSharp.pdb

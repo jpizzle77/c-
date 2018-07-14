@@ -1,0 +1,20 @@
+
+
+using System;
+
+namespace hw2_CollectionsPractice
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] numArray2 = {1,2,3,4,6,7,8,9}; //int array
+            string[] names = {"Tim", "Martin", "Nikki","Sara"}; // string array
+            bool[] truth = new bool[10]{true,false,true,false,true,false,true,false,true,false}; // boolean array
+
+            Console.WriteLine(truth[2]); // true
+            Console.WriteLine(names[3]); // Sarah
+            Console.WriteLine(numArray2[6]); // 3
+        }
+    }
+}

@@ -1,0 +1,24 @@
+
+@model Friend
+
+<h2>update @ViewBag.Friend["first_name"] @ViewBag.Friend["last_name"]</h2>
+
+
+<form asp-action="UpdateFriend" asp-controller="Home" method="post">
+    <div class="form-group">
+        <span asp-validation-for="first_name"></span>
+        <label asp-for="@Model.first_name"></label>
+        <input asp-for="@Model.first_name" value="@ViewBag.Friend["first_name"]">
+    </div>
+
+    <div class="form-group">
+        <span asp-validation-for="first_name"></span>
+        <label asp-for="@Model.last_name"></label>
+        <input asp-for="@Model.last_name" value="@ViewBag.Friend["last_name"]">
+    </div>
+   
+    <input type="hidden" name="id" value="@ViewBag.Friend["id"]" >
+
+    <input type="submit" value="update">
+</form>
+

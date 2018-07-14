@@ -1,0 +1,103 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Friend
+
+<h1>Friends</h1>
+
+    <table class="table table-hover">
+        <thead>
+            <tr>  
+                <th>Friend ID:</th>
+                <th>First Name:</th> 
+                <th>Last Name:</th>
+                <th>Created At:</th>
+                <th>Delete:</th>
+            </tr>
+        </thead>
+
+        <tbody> 
+         @foreach(var friend in ViewBag.Friends)
+         {
+             <tr>
+                <td>@friend["id"]</td>
+                <td><a href="/friend/@friend["id"]"> @friend["first_name"]</a> </td>
+                <td>@friend["last_name"]</td>
+                <td>@friend["created_at"]</td>
+                <td><a href="/delete/@friend["id"]">Delete</a></td>
+            
+             </tr>
+         }
+
+
+        </tbody>
+
+    </table>
+
+
+<h2>Create a friend</h2>
+
+<form asp-action="CreateFriend" asp-controller="Home">
+    <div class="form-group">
+        <span asp-validation-for="first_name"></span>
+        <label asp-for="@Model.first_name"></label>
+        <input asp-for="@Model.first_name">
+    </div>
+    <div class="form-group">
+        <span asp-validation-for="last_name"></span>
+        <label asp-for="@Model.last_name"></label>
+        <input asp-for="@Model.last_name">
+    </div>
+    <input type="submit" value="add a friend">
+</form>
+
+
+
+
+
+<h2>Create a enemy</h2>
+
+<form action ="/submit2" method ="post">
+    <input type ="text" name = "first_name" placeholder = "First Name"><p></p>
+    <input type ="text" name = "last_name" placeholder = "Last Name"><p></p>
+    <input type ="text" name = "email" placeholder = "Email"><p></p>
+    <input type ="number" name = "age" placeholder="Age"><p></p>
+    <input type ="submit" value = "Submit">
+    
+
+</form> 
+
+<h2>Create another thing</h2>
+
+<form action ="/submit2" method ="post">
+    <input type ="text" name = "first_name" placeholder = "First Name"><p></p>
+    <input type ="text" name = "last_name" placeholder = "Last Name"><p></p>
+    <input type ="text" name = "email" placeholder = "Email"><p></p>
+    <input type ="number" name = "age" placeholder="Age"><p></p>
+    <input type ="submit" value = "Submit">
+    
+
+</form>   
+
+
+<form asp-action = "Make" asp-controller = "Home" method = "Post">
+	
+	<div class = "form">  <!--type   .form-group to create a <div class ="form-group"> to use bootstrap -->
+		<span asp-validation-for = "Title"></span>
+		<label asp-for = "Title"></label>
+		<input asp-for  = "Title">
+	</div>
+	
+	<div class = "form">
+		<span asp-validation-for = "Director"></span>
+		<label asp-for = "Director"></label>
+		<input asp-for = "Director">
+	</div>
+    
+   
+    
+	
+</form>
+ 
+

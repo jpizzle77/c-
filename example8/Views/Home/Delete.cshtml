@@ -1,0 +1,11 @@
+@model Friend
+
+
+<h1>Are you sure you want to delete??</h1>
+<h3>@ViewBag.Friend["id"]</h3>
+<h2>@ViewBag.Friend["first_name"] @ViewBag.Friend["last_name"] </h2>
+
+<form asp-action="DeleteFriend" asp-controller="Home" method="post">
+    <input type="hidden" name="id" value="@ViewBag.Friend["id"]" >
+    <input type="submit" value="delete friend">
+</form>

@@ -1,0 +1,8 @@
+C:\Users\john\desktop\c#\OOP_Todd_Enders\bin\Debug\netcoreapp1.1\OOP_Todd_Enders.deps.json
+C:\Users\john\desktop\c#\OOP_Todd_Enders\bin\Debug\netcoreapp1.1\OOP_Todd_Enders.runtimeconfig.json
+C:\Users\john\desktop\c#\OOP_Todd_Enders\bin\Debug\netcoreapp1.1\OOP_Todd_Enders.runtimeconfig.dev.json
+C:\Users\john\desktop\c#\OOP_Todd_Enders\bin\Debug\netcoreapp1.1\OOP_Todd_Enders.dll
+C:\Users\john\desktop\c#\OOP_Todd_Enders\bin\Debug\netcoreapp1.1\OOP_Todd_Enders.pdb
+C:\Users\john\desktop\c#\OOP_Todd_Enders\obj\Debug\netcoreapp1.1\OOP_Todd_Enders.AssemblyInfo.cs
+C:\Users\john\desktop\c#\OOP_Todd_Enders\obj\Debug\netcoreapp1.1\OOP_Todd_Enders.dll
+C:\Users\john\desktop\c#\OOP_Todd_Enders\obj\Debug\netcoreapp1.1\OOP_Todd_Enders.pdb

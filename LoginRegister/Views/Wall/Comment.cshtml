@@ -1,0 +1,61 @@
+@using System.Collections.Generic;
+
+@model LoginRegister.Models.IndexView
+
+<h1>in the comments view</h1>
+
+
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css"/>
+
+
+<div class="container">
+
+
+    <div class="well">
+        <div class="media">
+      	    <a class="pull-left" href="#"></a>
+  		<div class="media-body">
+
+          <p class="text-right">  @Model.Message[0]["first_name"] @Model.Message[0]["last_name"] @Model.Message[0]["created_at"] </p>
+          <p>@Model.Message[0]["message"]  </p>
+          <p>@Model.Message[0]["message_id"]  Message Id </p>
+         
+    </div>
+        
+           @foreach(var comment in Model.Comments)
+                {
+                    <div class="well">
+                        <div class="media">
+                            <a class="pull-left" href="#"></a>
+                        <div class="media-body">
+
+                        @if((int)comment["message_id"] == (int)Model.Message[0]["message_id"])
+                        {
+                            <p class="text-right">  @comment["first_name"] @comment["last_name"] @comment["created_at"] </p>
+                            <p>@comment["comment"] </p>
+                        }                    
+                    </div>    
+                    </div>
+                    </div>  
+                }
+                
+                
+            
+            
+        
+    
+    <div class="form-group">
+        <form asp-action="CreateComment" asp-controller="Wall" method="POST">
+            <div class="form-group">
+                <span asp-validation-for="NewComment.comment"></span>
+                <label asp-for="NewComment.comment"></label>
+                <textarea class ="form-control" asp-for="NewComment.comment"></textarea>
+            </div>
+
+            <input type="hidden" asp-for="NewComment.message_id" value="@Model.Message[0]["message_id"]">
+            
+            <input type="submit" value="Leave a comment">
+        </form>    
+    </div>
+</div>
+  

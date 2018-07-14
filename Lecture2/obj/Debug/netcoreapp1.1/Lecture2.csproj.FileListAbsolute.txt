@@ -1,0 +1,8 @@
+C:\Users\john\desktop\c#\Lecture2\bin\Debug\netcoreapp1.1\Lecture2.deps.json
+C:\Users\john\desktop\c#\Lecture2\bin\Debug\netcoreapp1.1\Lecture2.runtimeconfig.json
+C:\Users\john\desktop\c#\Lecture2\bin\Debug\netcoreapp1.1\Lecture2.runtimeconfig.dev.json
+C:\Users\john\desktop\c#\Lecture2\bin\Debug\netcoreapp1.1\Lecture2.dll
+C:\Users\john\desktop\c#\Lecture2\bin\Debug\netcoreapp1.1\Lecture2.pdb
+C:\Users\john\desktop\c#\Lecture2\obj\Debug\netcoreapp1.1\Lecture2.AssemblyInfo.cs
+C:\Users\john\desktop\c#\Lecture2\obj\Debug\netcoreapp1.1\Lecture2.dll
+C:\Users\john\desktop\c#\Lecture2\obj\Debug\netcoreapp1.1\Lecture2.pdb

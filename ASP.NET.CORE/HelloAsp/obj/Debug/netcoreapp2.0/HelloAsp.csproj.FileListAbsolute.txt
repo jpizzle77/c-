@@ -1,0 +1,10 @@
+C:\Users\john\desktop\c#\ASP.NET.CORE\HelloAsp\bin\Debug\netcoreapp2.0\HelloAsp.deps.json
+C:\Users\john\desktop\c#\ASP.NET.CORE\HelloAsp\bin\Debug\netcoreapp2.0\HelloAsp.runtimeconfig.json
+C:\Users\john\desktop\c#\ASP.NET.CORE\HelloAsp\bin\Debug\netcoreapp2.0\HelloAsp.runtimeconfig.dev.json
+C:\Users\john\desktop\c#\ASP.NET.CORE\HelloAsp\bin\Debug\netcoreapp2.0\HelloAsp.dll
+C:\Users\john\desktop\c#\ASP.NET.CORE\HelloAsp\bin\Debug\netcoreapp2.0\HelloAsp.pdb
+C:\Users\john\desktop\c#\ASP.NET.CORE\HelloAsp\obj\Debug\netcoreapp2.0\HelloAsp.csproj.CoreCompileInputs.cache
+C:\Users\john\desktop\c#\ASP.NET.CORE\HelloAsp\obj\Debug\netcoreapp2.0\HelloAsp.AssemblyInfoInputs.cache
+C:\Users\john\desktop\c#\ASP.NET.CORE\HelloAsp\obj\Debug\netcoreapp2.0\HelloAsp.AssemblyInfo.cs
+C:\Users\john\desktop\c#\ASP.NET.CORE\HelloAsp\obj\Debug\netcoreapp2.0\HelloAsp.dll
+C:\Users\john\desktop\c#\ASP.NET.CORE\HelloAsp\obj\Debug\netcoreapp2.0\HelloAsp.pdb

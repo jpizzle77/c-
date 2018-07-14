@@ -1,0 +1,25 @@
+@model Movie
+
+<h2>Add a movie</h2>
+
+
+<form asp-action="AddMovie" asp-controller="Home" method="post">
+    <div class="form-group">
+        <span asp-validation-for="title"></span>
+        <label asp-for="@Model.title"></label>
+        <input asp-for="@Model.title">
+    </div>
+
+    <div class="form-group">
+        <span asp-validation-for="genre"></span>
+        <label asp-for="@Model.genre"></label>
+        <input asp-for="@Model.genre">
+    </div>
+
+    <div class="form-group">
+        <span asp-validation-for="release_year"></span>
+        <label asp-for="@Model.release_year"></label>
+        <input asp-for="@Model.release_year">
+    </div>
+    <input type="submit" value="add movie">
+</form>

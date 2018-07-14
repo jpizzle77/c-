@@ -1,0 +1,22 @@
+@model Fruit
+
+<h2>Add fruit</h2>
+
+<form asp-action="AddFruit" asp-controller="Home" method="POST">
+    <div class="form-group">
+        <span asp-validation-for="type"></span>
+        <label asp-for="@Model.type"></label>
+        <input asp-for="@Model.type">
+    </div>
+    <div class="form-group">
+        <span asp-validation-for="weight"></span>
+        <label asp-for="@Model.weight"></label>
+        <input asp-for="@Model.weight">
+    </div>
+    <div class="form-group">
+        <span asp-validation-for="cost"></span>
+        <label asp-for="@Model.cost"></label>
+        <input asp-for="@Model.cost">
+    </div>
+    <input type="submit" value="add fruit">
+</form>

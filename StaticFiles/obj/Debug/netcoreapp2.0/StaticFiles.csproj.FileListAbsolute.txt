@@ -1,0 +1,10 @@
+C:\Users\john\Desktop\c#\StaticFiles\bin\Debug\netcoreapp2.0\StaticFiles.deps.json
+C:\Users\john\Desktop\c#\StaticFiles\bin\Debug\netcoreapp2.0\StaticFiles.runtimeconfig.json
+C:\Users\john\Desktop\c#\StaticFiles\bin\Debug\netcoreapp2.0\StaticFiles.runtimeconfig.dev.json
+C:\Users\john\Desktop\c#\StaticFiles\bin\Debug\netcoreapp2.0\StaticFiles.dll
+C:\Users\john\Desktop\c#\StaticFiles\bin\Debug\netcoreapp2.0\StaticFiles.pdb
+C:\Users\john\Desktop\c#\StaticFiles\obj\Debug\netcoreapp2.0\StaticFiles.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\c#\StaticFiles\obj\Debug\netcoreapp2.0\StaticFiles.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\c#\StaticFiles\obj\Debug\netcoreapp2.0\StaticFiles.AssemblyInfo.cs
+C:\Users\john\Desktop\c#\StaticFiles\obj\Debug\netcoreapp2.0\StaticFiles.dll
+C:\Users\john\Desktop\c#\StaticFiles\obj\Debug\netcoreapp2.0\StaticFiles.pdb

@@ -1,0 +1,16 @@
+C:\Users\john\first_csharp\bin\Debug\netcoreapp1.1\first_csharp.deps.json
+C:\Users\john\first_csharp\bin\Debug\netcoreapp1.1\first_csharp.runtimeconfig.json
+C:\Users\john\first_csharp\bin\Debug\netcoreapp1.1\first_csharp.runtimeconfig.dev.json
+C:\Users\john\first_csharp\bin\Debug\netcoreapp1.1\first_csharp.dll
+C:\Users\john\first_csharp\bin\Debug\netcoreapp1.1\first_csharp.pdb
+C:\Users\john\first_csharp\obj\Debug\netcoreapp1.1\first_csharp.AssemblyInfo.cs
+C:\Users\john\first_csharp\obj\Debug\netcoreapp1.1\first_csharp.dll
+C:\Users\john\first_csharp\obj\Debug\netcoreapp1.1\first_csharp.pdb
+c:\Users\john\Desktop\c#\first_csharp\bin\Debug\netcoreapp1.1\first_csharp.deps.json
+c:\Users\john\Desktop\c#\first_csharp\bin\Debug\netcoreapp1.1\first_csharp.runtimeconfig.json
+c:\Users\john\Desktop\c#\first_csharp\bin\Debug\netcoreapp1.1\first_csharp.runtimeconfig.dev.json
+c:\Users\john\Desktop\c#\first_csharp\bin\Debug\netcoreapp1.1\first_csharp.dll
+c:\Users\john\Desktop\c#\first_csharp\bin\Debug\netcoreapp1.1\first_csharp.pdb
+c:\Users\john\Desktop\c#\first_csharp\obj\Debug\netcoreapp1.1\first_csharp.AssemblyInfo.cs
+c:\Users\john\Desktop\c#\first_csharp\obj\Debug\netcoreapp1.1\first_csharp.dll
+c:\Users\john\Desktop\c#\first_csharp\obj\Debug\netcoreapp1.1\first_csharp.pdb

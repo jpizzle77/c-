@@ -1,0 +1,8 @@
+C:\Users\john\Desktop\c#\objectLifetime\bin\Debug\netcoreapp1.1\objectLifetime.deps.json
+C:\Users\john\Desktop\c#\objectLifetime\bin\Debug\netcoreapp1.1\objectLifetime.runtimeconfig.json
+C:\Users\john\Desktop\c#\objectLifetime\bin\Debug\netcoreapp1.1\objectLifetime.runtimeconfig.dev.json
+C:\Users\john\Desktop\c#\objectLifetime\bin\Debug\netcoreapp1.1\objectLifetime.dll
+C:\Users\john\Desktop\c#\objectLifetime\bin\Debug\netcoreapp1.1\objectLifetime.pdb
+C:\Users\john\Desktop\c#\objectLifetime\obj\Debug\netcoreapp1.1\objectLifetime.AssemblyInfo.cs
+C:\Users\john\Desktop\c#\objectLifetime\obj\Debug\netcoreapp1.1\objectLifetime.dll
+C:\Users\john\Desktop\c#\objectLifetime\obj\Debug\netcoreapp1.1\objectLifetime.pdb

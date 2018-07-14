@@ -1,0 +1,8 @@
+C:\Users\john\Desktop\c#\hw1_Fundamentals\bin\Debug\netcoreapp1.1\hw1_Fundamentals.deps.json
+C:\Users\john\Desktop\c#\hw1_Fundamentals\bin\Debug\netcoreapp1.1\hw1_Fundamentals.runtimeconfig.json
+C:\Users\john\Desktop\c#\hw1_Fundamentals\bin\Debug\netcoreapp1.1\hw1_Fundamentals.runtimeconfig.dev.json
+C:\Users\john\Desktop\c#\hw1_Fundamentals\bin\Debug\netcoreapp1.1\hw1_Fundamentals.dll
+C:\Users\john\Desktop\c#\hw1_Fundamentals\bin\Debug\netcoreapp1.1\hw1_Fundamentals.pdb
+C:\Users\john\Desktop\c#\hw1_Fundamentals\obj\Debug\netcoreapp1.1\hw1_Fundamentals.AssemblyInfo.cs
+C:\Users\john\Desktop\c#\hw1_Fundamentals\obj\Debug\netcoreapp1.1\hw1_Fundamentals.dll
+C:\Users\john\Desktop\c#\hw1_Fundamentals\obj\Debug\netcoreapp1.1\hw1_Fundamentals.pdb

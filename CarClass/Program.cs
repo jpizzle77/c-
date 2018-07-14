@@ -1,0 +1,59 @@
+﻿using System;
+
+namespace CarClass
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Car myNewCar = new Car();
+
+            myNewCar.Make = "Jeep";
+            myNewCar.Model = "Cherokee";
+            myNewCar.Year = 1997;
+            myNewCar.Color = "Silver";
+
+            Console.WriteLine(" {0} - {1} - {2} - {3}",
+                myNewCar.Make,
+                myNewCar.Model,
+                myNewCar.Year,
+                myNewCar.Color);
+
+            //double marketValueOfCar = determineMarketValue(myNewCar);
+            Console.WriteLine("Cars value: {0:C}", myNewCar.determineMarketValue()); // this will call the determineMarketValue() method using myNewCar's attributes
+
+        }
+
+         private static double determineMarketValue(Car _car) // _car is a input parameter
+        {
+        double carValue = 100.0;
+        return carValue;
+        }
+
+    }
+
+    
+    class Car
+    {
+        //class attribute
+        public string Make { get; set; }
+        public string Model { get; set; }
+        public int Year { get; set; }
+        public string Color { get; set; }
+
+        // Class method
+        public double determineMarketValue()
+        {
+            double carValue =100.0;
+
+            if (this.Year > 1990)
+                carValue = 10000.0;
+
+            else
+                carValue= 2000.0;
+
+            return carValue;
+        }
+
+    }
+}

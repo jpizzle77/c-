@@ -1,0 +1,69 @@
+@model IndexView
+
+<h2>Registered Users</h2>
+
+@foreach(var user in Model.Users)
+{
+    <p>@user["first_name"]</p>
+}
+
+<h2> Login </h2>
+
+
+
+<form asp-action="Login" asp-controller="Home" method="post">
+    <div class="form-group">
+        <span asp-validation-for="LogUser.log_email"></span>
+        <label asp-for="LogUser.log_email"></label>
+        <input asp-for="LogUser.log_email">
+    </div>
+    <div class="form-group">
+        <span asp-validation-for="LogUser.log_password"></span>
+        <label asp-for="LogUser.log_password"></label>
+        <input asp-for="LogUser.log_password">
+    </div>
+
+    <input type="submit" value="Login">
+</form>
+
+
+<h1>Register Here!</h1>
+
+
+
+<form asp-action="Register" asp-controller="Home" method="post">
+
+    <div class="form-group">
+        <span asp-validation-for="NewUser.first_name"></span>
+        <label asp-for="NewUser.first_name"></label>
+        <input asp-for="NewUser.first_name">
+    </div>
+
+    <div class="form-group">
+        <span asp-validation-for="NewUser.last_name"></span>
+        <label asp-for="NewUser.last_name"></label>
+        <input asp-for="NewUser.last_name">
+    </div>
+
+    <div class="form-group">
+        <span asp-validation-for="NewUser.email"></span>
+        <label asp-for="NewUser.email"></label>
+        <input asp-for="NewUser.email">
+    </div>
+
+    <div class="form-group">
+        <span asp-validation-for="NewUser.password"></span>
+        <label asp-for="NewUser.password"></label>
+        <input asp-for="NewUser.password">
+    </div>
+
+    <div class="form-group">
+        <span asp-validation-for="NewUser.confirm_password"></span>
+        <label asp-for="NewUser.confirm_password"></label>
+        <input asp-for="NewUser.confirm_password">
+    </div>
+
+    <input type="submit" value="register">
+</form>
+
+

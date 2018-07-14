@@ -1,0 +1,10 @@
+C:\Users\john\desktop\c#\PostSRE-SQL\1stPost\bin\Debug\netcoreapp2.0\1stPost.deps.json
+C:\Users\john\desktop\c#\PostSRE-SQL\1stPost\bin\Debug\netcoreapp2.0\1stPost.runtimeconfig.json
+C:\Users\john\desktop\c#\PostSRE-SQL\1stPost\bin\Debug\netcoreapp2.0\1stPost.runtimeconfig.dev.json
+C:\Users\john\desktop\c#\PostSRE-SQL\1stPost\bin\Debug\netcoreapp2.0\1stPost.dll
+C:\Users\john\desktop\c#\PostSRE-SQL\1stPost\bin\Debug\netcoreapp2.0\1stPost.pdb
+C:\Users\john\desktop\c#\PostSRE-SQL\1stPost\obj\Debug\netcoreapp2.0\1stPost.csproj.CoreCompileInputs.cache
+C:\Users\john\desktop\c#\PostSRE-SQL\1stPost\obj\Debug\netcoreapp2.0\1stPost.AssemblyInfoInputs.cache
+C:\Users\john\desktop\c#\PostSRE-SQL\1stPost\obj\Debug\netcoreapp2.0\1stPost.AssemblyInfo.cs
+C:\Users\john\desktop\c#\PostSRE-SQL\1stPost\obj\Debug\netcoreapp2.0\1stPost.dll
+C:\Users\john\desktop\c#\PostSRE-SQL\1stPost\obj\Debug\netcoreapp2.0\1stPost.pdb

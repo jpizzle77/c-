@@ -1,0 +1,8 @@
+C:\Users\john\Desktop\c#\understandingInheritance\bin\Debug\netcoreapp1.1\understandingInheritance.deps.json
+C:\Users\john\Desktop\c#\understandingInheritance\bin\Debug\netcoreapp1.1\understandingInheritance.runtimeconfig.json
+C:\Users\john\Desktop\c#\understandingInheritance\bin\Debug\netcoreapp1.1\understandingInheritance.runtimeconfig.dev.json
+C:\Users\john\Desktop\c#\understandingInheritance\bin\Debug\netcoreapp1.1\understandingInheritance.dll
+C:\Users\john\Desktop\c#\understandingInheritance\bin\Debug\netcoreapp1.1\understandingInheritance.pdb
+C:\Users\john\Desktop\c#\understandingInheritance\obj\Debug\netcoreapp1.1\understandingInheritance.AssemblyInfo.cs
+C:\Users\john\Desktop\c#\understandingInheritance\obj\Debug\netcoreapp1.1\understandingInheritance.dll
+C:\Users\john\Desktop\c#\understandingInheritance\obj\Debug\netcoreapp1.1\understandingInheritance.pdb

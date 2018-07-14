@@ -1,0 +1,23 @@
+using System;
+
+namespace hw2_CollectionsPractice
+{
+    class Program
+    {
+        static void Main(string[] args)
+    {
+     int[,,] array3D = new int[5,1,5] 
+    {
+        {  { 1,2,3,4,5}  },
+        {  { 2,4,6,8,10} },
+        {  { 3,6,9,12,15} },
+        {  { 4,8,12,16,20}  },
+        {  { 5,10,15,20,25 } }
+       
+    };
+    Console.WriteLine(array3D[1,0,3]);// 8
+    Console.WriteLine(array3D[3,0,3]); // 16
+    Console.WriteLine(array3D[4,0,4]); // 25
+    }
+    }
+}

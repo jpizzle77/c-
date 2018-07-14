@@ -1,0 +1,8 @@
+C:\Users\john\Desktop\c#\CarClass\bin\Debug\netcoreapp1.1\CarClass.deps.json
+C:\Users\john\Desktop\c#\CarClass\bin\Debug\netcoreapp1.1\CarClass.runtimeconfig.json
+C:\Users\john\Desktop\c#\CarClass\bin\Debug\netcoreapp1.1\CarClass.runtimeconfig.dev.json
+C:\Users\john\Desktop\c#\CarClass\bin\Debug\netcoreapp1.1\CarClass.dll
+C:\Users\john\Desktop\c#\CarClass\bin\Debug\netcoreapp1.1\CarClass.pdb
+C:\Users\john\Desktop\c#\CarClass\obj\Debug\netcoreapp1.1\CarClass.AssemblyInfo.cs
+C:\Users\john\Desktop\c#\CarClass\obj\Debug\netcoreapp1.1\CarClass.dll
+C:\Users\john\Desktop\c#\CarClass\obj\Debug\netcoreapp1.1\CarClass.pdb

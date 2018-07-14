@@ -1,0 +1,11 @@
+C:\Users\john\Desktop\c#\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPassCode.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\c#\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPassCode.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\c#\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPassCode.AssemblyInfo.cs
+C:\Users\john\Desktop\c#\RandomPassCode\bin\Debug\netcoreapp2.0\RandomPassCode.deps.json
+C:\Users\john\Desktop\c#\RandomPassCode\bin\Debug\netcoreapp2.0\RandomPassCode.runtimeconfig.json
+C:\Users\john\Desktop\c#\RandomPassCode\bin\Debug\netcoreapp2.0\RandomPassCode.runtimeconfig.dev.json
+C:\Users\john\Desktop\c#\RandomPassCode\bin\Debug\netcoreapp2.0\RandomPassCode.dll
+C:\Users\john\Desktop\c#\RandomPassCode\bin\Debug\netcoreapp2.0\RandomPassCode.pdb
+C:\Users\john\Desktop\c#\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPassCode.dll
+C:\Users\john\Desktop\c#\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPassCode.pdb
+C:\Users\john\Desktop\c#\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPasscode.csprojResolveAssemblyReference.cache

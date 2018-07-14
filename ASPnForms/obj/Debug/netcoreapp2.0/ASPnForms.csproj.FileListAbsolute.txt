@@ -1,0 +1,10 @@
+C:\Users\john\desktop\c#\ASPnForms\obj\Debug\netcoreapp2.0\ASPnForms.csproj.CoreCompileInputs.cache
+C:\Users\john\desktop\c#\ASPnForms\obj\Debug\netcoreapp2.0\ASPnForms.AssemblyInfoInputs.cache
+C:\Users\john\desktop\c#\ASPnForms\obj\Debug\netcoreapp2.0\ASPnForms.AssemblyInfo.cs
+C:\Users\john\desktop\c#\ASPnForms\bin\Debug\netcoreapp2.0\ASPnForms.deps.json
+C:\Users\john\desktop\c#\ASPnForms\bin\Debug\netcoreapp2.0\ASPnForms.runtimeconfig.json
+C:\Users\john\desktop\c#\ASPnForms\bin\Debug\netcoreapp2.0\ASPnForms.runtimeconfig.dev.json
+C:\Users\john\desktop\c#\ASPnForms\bin\Debug\netcoreapp2.0\ASPnForms.dll
+C:\Users\john\desktop\c#\ASPnForms\bin\Debug\netcoreapp2.0\ASPnForms.pdb
+C:\Users\john\desktop\c#\ASPnForms\obj\Debug\netcoreapp2.0\ASPnForms.dll
+C:\Users\john\desktop\c#\ASPnForms\obj\Debug\netcoreapp2.0\ASPnForms.pdb

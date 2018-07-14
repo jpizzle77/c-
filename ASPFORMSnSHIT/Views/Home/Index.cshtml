@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model ASPFORMSnSHIT.Models.User 
+
+
+<h1>Add a USER</h1>
+
+
+<form asp-action="Create" asp-controller ="Home" method="post">
+
+    <div class="form-group">
+    <span asp-validation-for="name"></span>
+       <label asp-for="name"></label>
+       <input asp-for="name">
+    </div>
+
+    <div class="form-group">
+       <span asp-validation-for="location"></span>
+       <label asp-for="location"></label>
+       <input asp-for="location">
+    </div>
+
+    <div class="form-group">
+       <span asp-validation-for="dob" ></span>
+       <label asp-for="dob"></label>
+       <input asp-for="dob">
+    </div>
+
+    <input type="submit" value="submit">
+
+</form>

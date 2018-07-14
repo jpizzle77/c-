@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Random passcode Generator</title>
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body>
+        <div class="center half-width">
+            <h3 class="center-text">Random passcode (passcode #@ViewBag.RunCount)</h3>
+            <div class="code-box center quarter-width">
+                <p class="center-text">@ViewBag.PassCode</p>
+            </div>
+              <div class="code-box center quarter-width">
+                <p class="center-text">@ViewBag.PassCode2</p>
+            </div>
+            <div class="code-box center quarter-width">
+                <p class="center-text">@TempData["Variable"]</p>
+            </div>
+            <div class="quarter-width center center-text">
+                <a href="/"><button>Generate</button></a>
+            </div>
+        </div>
+    </body>
+</html>

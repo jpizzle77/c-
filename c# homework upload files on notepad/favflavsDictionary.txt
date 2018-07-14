@@ -1,0 +1,27 @@
+using System;
+using System.Collections.Generic;
+
+namespace hw2_CollectionsPractice
+{
+    class Program
+    {
+        static void Main(string[] args)
+    {
+        Dictionary<string,string> favflavs = new Dictionary<string,string>();
+       
+        favflavs.Add("Tim", "choclate");
+        favflavs.Add("Martin", "vanilla");
+        favflavs.Add("Nicky", "rocky");
+        favflavs.Add("Sarah", "peanut butter");
+        foreach (KeyValuePair<string,string> entry in favflavs)
+            {
+            Console.WriteLine(entry.Key + " - " + entry.Value);
+            }
+        foreach (var entry in favflavs)
+            {
+            Console.WriteLine(entry.Key + " - " + entry.Value);
+            }
+
+    }
+    }
+}

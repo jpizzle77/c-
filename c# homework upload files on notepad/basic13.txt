@@ -1,0 +1,72 @@
+1) Print all numbers from 1-255
+
+ static void Main(string[] args)
+        {
+        for (int i = 1; i <= 255; i++)
+            {
+                Console.WriteLine(i);
+            }
+	}
+
+2) Print all odd number from 1-255
+
+ static void Main(string[] args)
+        {
+        for (int i = 1; i <= 255; i= i+2)
+            {
+                Console.WriteLine(i);
+            }
+        
+        }
+
+3) Print Sum
+
+static void Main(string[] args)
+		{
+			int n = 255;
+            int sum = 0;
+
+			for (int i=1; i<=n; i++)
+			{
+				// sum = sum + i;
+				sum += i;
+                Console.WriteLine("New number: {0} Sum: {1}", i, sum);
+			}
+
+			
+		}
+
+4) Loop through an array
+static void Main(string[] args)
+		{
+		
+        int[] numbers = new int[6] { 1,3,5,7,9,13}; 
+        foreach (int number in numbers)
+        {
+        
+            Console.WriteLine("The number inide the array is {0}", number);
+        }
+		
+
+5) Find Max number in array
+static void Main(string[] args)
+		   
+        {
+            int[] array = { -14, -5, -2, -7 };
+            int index_for_max_num = -1; //
+            int largest_number = Int32.MinValue; //this will set 'largest_number' to the smallest number in the Int32 range (-2,147,483,648 )
+            // which will allow this function to compare negative numbers in the array
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                int value = array[i];
+                if (value > largest_number) // e.g. if (14 > -2,147,483,648) for the first iteration, then value is set to 14
+                {
+                    largest_number = value;
+                    index_for_max_num = i; // both 'largest_number' and 'index_for_max_num' will be reset if the if condition passes
+                }
+            }
+         Console.WriteLine($"The largest number in the index is {largest_number}. It is found at index {index_for_max_num}");
+			
+		}	
+		}

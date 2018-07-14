@@ -1,0 +1,8 @@
+c:\Users\john\Desktop\c#\function\bin\Debug\netcoreapp1.1\function.deps.json
+c:\Users\john\Desktop\c#\function\bin\Debug\netcoreapp1.1\function.runtimeconfig.json
+c:\Users\john\Desktop\c#\function\bin\Debug\netcoreapp1.1\function.runtimeconfig.dev.json
+c:\Users\john\Desktop\c#\function\bin\Debug\netcoreapp1.1\function.dll
+c:\Users\john\Desktop\c#\function\bin\Debug\netcoreapp1.1\function.pdb
+c:\Users\john\Desktop\c#\function\obj\Debug\netcoreapp1.1\function.AssemblyInfo.cs
+c:\Users\john\Desktop\c#\function\obj\Debug\netcoreapp1.1\function.dll
+c:\Users\john\Desktop\c#\function\obj\Debug\netcoreapp1.1\function.pdb

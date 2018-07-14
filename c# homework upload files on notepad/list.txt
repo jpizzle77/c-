@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+
+namespace hw2_CollectionsPractice
+{
+    class Program
+    {
+        static void Main(string[] args)
+    {
+    List<string> iceCream = new List<string>();
+    iceCream.Add("chocolate");
+    iceCream.Add("vanilla");
+    iceCream.Add("caramel");
+    iceCream.Add("strawberry");
+    iceCream.Add("toffee crunch");
+    iceCream.Add("rocky rhodes");
+    iceCream.Add("peanut butter");
+
+    for (var idx = 0; idx < iceCream.Count; idx++)
+        {
+        Console.WriteLine("-" + iceCream[idx]);
+        }
+    Console.WriteLine(iceCream.Count);
+    Console.WriteLine("The third item on ice cream list is: " + iceCream[2]);
+    iceCream.Remove("caramel");
+    Console.WriteLine("The new count is : " + iceCream.Count);
+    }
+    }
+}
